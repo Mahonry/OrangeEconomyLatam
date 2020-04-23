@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mahonry/OrangeEconomyLatam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+# OrangeEconomyLatam
+Análisis exploratorio de la economía naranja en latino america
+>>>>>>> 5246286bfc37344a17a18fc2a457e2cb4ee3a4b8
