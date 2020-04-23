@@ -1,0 +1,11 @@
+Una variable nos ahorra tiempo porque…
+
+EDA (Exploratory data analysis) significa:
+
+En un scatter plot (gráfica de dispersión) en donde relacionamos los caballos de fuerza (hp) en el eje X y el tiempo en recorrer un cuarto de milla (qsec) en el eje Y, en el dataset mtcars, los puntos parecen…
+
+Cuando hacemos subset y usamos select, estamos
+
+En la lectura vemos que cuando el tráfico al punto de venta aumenta,
+
+
