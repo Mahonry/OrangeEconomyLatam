@@ -8,4 +8,4 @@ Comprende entre otras, la industria del arte, arquitectura, cine, diseño, publ
 
 Empezemos creando un resumen de las variables a analizar y su explicación.
 
-[Click Here](https://mahonry.github.io/OrangeEconomyLatam/) para ver el analisis-
+[Click aqui](https://mahonry.github.io/OrangeEconomyLatam/) para ver el analisis-
